@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alice embraces love.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Alice resumes writing and painting in 2017.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Write to Alice In Wonderland](mailto:WonderlandAlice100@gmail.com)

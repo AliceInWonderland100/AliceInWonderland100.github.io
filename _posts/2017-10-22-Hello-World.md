@@ -9,4 +9,4 @@ The happy face of Alice in Wonderland should be more than this(shown below).
 
 ![Happy Alice In Wonderland]({{ site.baseurl }}/images/images.jpg)
 
-Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [test](google.com) on GitHub.
+Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [I'm an inline-style link](https://www.google.com) on GitHub.

@@ -9,18 +9,6 @@ The happy face of Alice in Wonderland should be more than this(shown below).
 
 ![Happy Alice In Wonderland]({{ site.baseurl }}/images/images.jpg)
 
-![Happy Alice In Wonderland](https://www.instagram.com/p/BajwggRASeY/?taken-by=elisezh08)
-
-![Happy Alice In Wonderland](https://www.instagram.com/p/BajwggRASeY/?taken-by=elisezh08)
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
 Go into /_posts/ and update the Hello World markdown file. 
 
 

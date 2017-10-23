@@ -7,7 +7,7 @@ I spent a couple times trying to set up my blog based on [jekyll-now] on GitHub.
 
 The happy face of Alice in Wonderland should be more than this(shown below).
 
-![Happy Alice In Wonderland]({{ site.baseurl }}/images/images.jpg)
+[Happy Alice In Wonderland]({{ site.baseurl }}/images/images.jpg)
 
 Go into /_posts/ and update the Hello World markdown file. 
 

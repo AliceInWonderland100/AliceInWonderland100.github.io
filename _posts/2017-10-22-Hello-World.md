@@ -9,4 +9,8 @@ The happy face of Alice in Wonderland should be more than this(shown below).
 
 ![Happy Alice In Wonderland]({{ site.baseurl }}/images/images.jpg)
 
-Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [I'm an inline-style link](https://www.google.com) on GitHub.
+Go into /_posts/ and update the Hello World markdown file. 
+
+
+<a href="https://www.youtube.com/watch?v=kv5wNdLEfcM" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

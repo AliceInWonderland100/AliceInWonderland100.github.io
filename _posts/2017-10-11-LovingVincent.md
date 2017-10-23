@@ -15,11 +15,8 @@ One day, I was chatting with a coworker randomly about painting. I told her, I a
 Two months ago, I went to Amsterdam and visited Van Gogh Museum. I studied Van Gogh from the closest distance ever, more than what I learnt about him from thousands of miles away and tens of years ago. He was more real than ever to me. Back in the time, he was among the most average people. He moved around among a couple non-painting-related jobs in early 20s. At the age of 28, he decided to go into painting. The closest ties he had to art industry is probably his uncle and his brother who worked in the art industry. Then he never stopped painting. He painted rain or shine, sane or insane, in netherlands or france, starving or not starving. Yes that is like the vow to one's spouse at a wedding. But Van Gogh's love for art is the last to be doubted. I read one of his letters later.
 
 > I feel I’m losing the desire for marriage and children, and at times I’m quite melancholy to be like that at 35 when I ought to feel quite differently. And sometimes I blame this damned painting.
-
 > It was Richepin who said somewhere the love of art makes us lose real love
-
 > I find that terribly true, but on the other hand real love puts you right off art.
-
 > And sometimes I already feel old and broken, but still sufficiently in love to stop me being enthusiastic about painting.
 To succeed you have to have ambition, and ambition seems absurd to me. I don’t know what will come of it. Most of all, I’d like to be less of a burden to you — and that’s not impossible from now on. Because I hope to make progress in such a way that you’ll be able to show what I’m doing, with confidence, without compromising yourself.
 

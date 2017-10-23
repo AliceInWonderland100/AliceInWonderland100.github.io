@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loving Vincent
+category: essays
 ---
 
 

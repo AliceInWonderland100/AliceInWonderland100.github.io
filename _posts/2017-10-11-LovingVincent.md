@@ -1,4 +1,8 @@
-Loving Vincent
+---
+layout: post
+title: Loving Vincent
+---
+
 
 "You are a sunflower, destined to follow the sun for your entire life.", there I wrote when I was 9, a poem named Van Gogh. I learnt Van Gogh's Potato Eaters from my primary school textbook. Since them, I was fascinated with Van Gogh. At that time, I learnt that he painted to death and left tremendous paintings for later generations. He inspired me with his passion. 
 

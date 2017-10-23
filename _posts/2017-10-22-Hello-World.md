@@ -12,5 +12,5 @@ The happy face of Alice in Wonderland should be more than this(shown below).
 Go into /_posts/ and update the Hello World markdown file. 
 
 
-<a href="https://www.youtube.com/watch?v=kv5wNdLEfcM" target="_blank"><img src="https://i.ytimg.com/vi/r_pU2auDUEE/mqdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=kv5wNdLEfcM?autoplay=1" target="_blank"><img src="https://i.ytimg.com/vi/r_pU2auDUEE/mqdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

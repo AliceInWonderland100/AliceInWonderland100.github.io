@@ -3,6 +3,7 @@ layout: post
 title: Montreal for real
 category: essays
 ---
+
 There is no vanity of Manhattan, dignity of Boston, or delicacy of London. Instead, it constantly and seamlessly transforms between French pride and American boldness, all of which will be swallowed into underground by the snows. There is, indeed, an underground city, a city full of Sortie sighs but no Sortie at all, and it is like Brave New World version of escape the room.
 
 Bagels here are huge and unique enough to launch a war against the New York City bagels. There are equivalently fabulous latte and Chinese restaurants that runs all night. Besides food, scenery is also attractive. The city streets spread out from around the mountain. Foliage is still at infancy at this end of October but colorful leaved trees decorate the mountain and the city. Each street end ends with a fantasy for foliage. The entire city is an art museum. The top of the mountain, at the center of the city, sees almost every high rise and low rise. The high-rises are as plentiful as in Chicago, especially in late nights.

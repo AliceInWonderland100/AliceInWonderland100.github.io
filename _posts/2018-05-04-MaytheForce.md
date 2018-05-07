@@ -10,18 +10,6 @@ cateogory: 散文
 
 《后来》
 
-Hello Yin,
-
-How are you doing and how are the girls? I haven’t reached out for long, my bad. Hope everything is very well with both of your work and family. 
-
-I am now with State Street Bank in Boston, doing more and more quant work over the years. Btw, Joy also joined State Street and I felt lucky to have her in touch again.
-
-If possible, I have a favor to ask regarding my green card application. As my current employer is sponsoring my green card application, I wonder if you could please help prove my work experience back at Capital One. If so, I will pass along the experience letter drafted for your review and signature. Deeply appreciate it.
-
-Hope to chat more if you have the time as well. Looking forward to hearing from you 
-
-All the best,
-Elise
 
 
 

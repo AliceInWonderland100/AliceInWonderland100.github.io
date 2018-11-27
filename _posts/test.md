@@ -1,3 +1,10 @@
+---
+layout: post
+title: Hope test
+cateogory: 散文
+---
+
+
 高盛猎头直接找来的，是Flow Credit Strats Desk Quant, support trader 之类。
 
 第一轮是跟组里一个人纯聊经历和工作内容，水过。

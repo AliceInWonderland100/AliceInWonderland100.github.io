@@ -12,17 +12,17 @@ cateogory: 散文
 
 ，去到了低调华丽的水晶瀑布，脱离自然太久的自己不仅双腿发软
 
-Stop and consider! life is but a day; 
-A fragile dew-drop on its perilous way 
-From a tree’s summit; a poor Indian’s sleep 
-While his boat hastens to the monstrous steep 
-Of Montmorenci. Why so sad a moan? 
-Life is the rose’s hope while yet unblown; 
-The reading of an ever-changing tale; 
-The light uplifting of a maiden’s veil; 
-A pigeon tumbling in clear summer air; 
-A laughing school-boy, without grief or care, 
-Riding the springy branches of an elm. 
+>Stop and consider! life is but a day; 
+>A fragile dew-drop on its perilous way 
+>From a tree’s summit; a poor Indian’s sleep 
+>While his boat hastens to the monstrous steep 
+>Of Montmorenci. Why so sad a moan? 
+>Life is the rose’s hope while yet unblown; 
+>The reading of an ever-changing tale; 
+>The light uplifting of a maiden’s veil; 
+>A pigeon tumbling in clear summer air; 
+>A laughing school-boy, without grief or care, 
+>Riding the springy branches of an elm. 
 
 
 

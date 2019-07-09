@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QuebecCity 艳遇魁北克
+title: Quebec Affair 艳遇魁北克
 cateogory: 散文
 ---
 

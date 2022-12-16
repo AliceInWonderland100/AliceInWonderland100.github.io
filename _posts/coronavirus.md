@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Coronavirus!
+title: coronavirus
+cateogory: 散文
 ---
 
 It is prompting all the indecisives to make decisions as fast as possible.
